@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Be-A-God
 - 👀 I’m interested in cpp server dev
 - 🌱 I’m currently learning server dev
-- 💞️ I’m educating in Guangzbou University
-- 📫 Reaching me by wx1028674648@gmail.com
+- 💞️ I’m educating in GuangZhou University
+- 📫 Reaching me by *wx1028674648@gmail.com*
